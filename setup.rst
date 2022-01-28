@@ -26,6 +26,8 @@ Before creating your first Symfony application you must:
     For example, PHP 8.1 is supported.
 * `Install Composer`_, which is used to install PHP packages.
 
+* `Install Git`, for version controlling.
+
 Optionally, you can also `install Symfony CLI`_. This creates a binary called
 ``symfony`` that provides all the tools you need to develop and run your
 Symfony application locally.
